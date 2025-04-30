@@ -1,8 +1,5 @@
 # 🧩 Sudoku Solver & AR Recorder
-
-*Guided by Rashid Mazhar*  
 **Author:** Krishnanshu Kumar (2206031@kiit.ac.in)  
-**Supervisor Email:** 21052780@kiit.ac.in
 
 ---
 
@@ -103,10 +100,5 @@ A fun, interactive Sudoku experience that blends classic puzzle solving with cut
 
 ---
 
-## 📄 License
-
-This project is released under the **MIT License**. See [LICENSE](LICENSE.md) for details.
-
----
 
 *Happy puzzling & coding!* 🎉
